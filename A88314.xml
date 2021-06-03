@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of divers persons whose names are to be presented to the Kings Majestie, to dye without mercy. Also a declaration of the kingdoms of England and Scotland, for the vindication and defence of their religion, liberties, and laws. By the Honourable Houses of the Parliament of England, and the Honourable Convention of the Estates of the Kingdome of Scotland.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88314</idno><idno type="EEBO-CITATION">99862361</idno>
+  <idno type="VID">160467</idno>
+  <idno type="EEBO-PROQUEST">2248535051</idno>
+  
+            <idno type="STC">Wing L2389</idno>
+            <idno type="STC">Thomason E405_1</idno>
+            <idno type="STC">ESTC R201872</idno>
+            <idno type="PROQUEST">99862361</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862361e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160467)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of divers persons whose names are to be presented to the Kings Majestie, to dye without mercy. Also a declaration of the kingdoms of England and Scotland, for the vindication and defence of their religion, liberties, and laws. By the Honourable Houses of the Parliament of England, and the Honourable Convention of the Estates of the Kingdome of Scotland.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for V,V. and are to be sold at the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. MDCXLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by either the English and Welsh or the Scottish Parliaments.</note>
+                  <note>Annotation on Thomason copy: "Aug: 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160467:1"/>
+            <pb facs="tcp:160467:1"/>
+            <p>A LIST OF DIVERS PERSONS WHOSE Names are to be presented to the Kings <hi>MAJESTIE,</hi> To DYE without Mercy.</p>
+            <p>ALSO A <hi>DECLARATION</hi> of the King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Scotland,</hi> for the Vin<g ref="char:EOLhyphen"/>dication and defence of their <hi>Re<g ref="char:EOLhyphen"/>ligion, Liberties,</hi> and <hi>Laws.</hi>
+            </p>
+            <p>BY <hi>The Honourable Houses of the Parlia<g ref="char:EOLhyphen"/>ment of</hi> England, <hi>and the Honourable Con<g ref="char:EOLhyphen"/>vention of the Estates of the Kingdome of</hi> SCOTLAND.</p>
+            <p>
+               <hi>London</hi> printed for V, V. and are to be sold at the <hi>Exchange, Anno Dom.</hi> MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160467:2"/>
+            <pb n="1" facs="tcp:160467:2"/>
+            <head>A LIST OF THOSE Persons, who are Exempted FROM PARDON By the Agreement of both KINGDOMES.</head>
+            <list>
+               <item>
+                  <hi>RVpert</hi> Count Palatine of <hi>Rhine,</hi>
+               </item>
+               <item>
+                  <hi>Maurice</hi> Count Palatine of <hi>Rhine,</hi>
+               </item>
+               <item>The Manquis of <hi>Winchester,</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Marquis of <hi>Huntley.</hi>
+               </item>
+               <pb n="2" facs="tcp:160467:3"/>
+               <item>
+                  <hi>James</hi> Earle of <hi>Derby</hi>
+               </item>
+               <item>
+                  <hi>John</hi> Earle of <hi>Bristol</hi>
+               </item>
+               <item>
+                  <hi>William</hi> Earle of <hi>Newcastle</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Earle of <hi>Worcester</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Earl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Montrosse</hi>
+               </item>
+               <item>The Earle of <hi>Traquare</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earle of <hi>Nithsdale</hi>
+               </item>
+               <item>
+                  <hi>Lodowick</hi> Ear. of <hi>Crawford</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Earle of <hi>Airby</hi>
+               </item>
+               <item>
+                  <hi>Robert</hi> Earle of <hi>Carnwarth</hi>
+               </item>
+               <item>
+                  <hi>Patricke</hi> Earle of <hi>Forth</hi>
+               </item>
+               <item>The Earle of <hi>Castlehaven</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Viscount <hi>Aboyne</hi>
+               </item>
+               <item>
+                  <hi>Francis</hi> Lord <hi>Cottington</hi>
+               </item>
+               <item>
+                  <hi>George</hi> Lord <hi>Digby</hi>
+               </item>
+               <item>Lord <hi>Brewdnel</hi>
+               </item>
+               <item>Lord <hi>Harris</hi>
+               </item>
+               <item>Lord <hi>Arundel</hi> of <hi>Warder</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Lord <hi>Ogley</hi>
+               </item>
+               <item>Lord <hi>Audley</hi>
+               </item>
+               <item>Lord <hi>Roe</hi>
+               </item>
+               <item>
+                  <hi>James</hi> Lord <hi>Itham</hi>
+               </item>
+               <item>
+                  <hi>Matthew Ren,</hi> late B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shop of <hi>Ely</hi>
+               </item>
+               <item>
+                  <hi>John Maxwel,</hi> pretended Bishop of <hi>Rosse</hi>
+               </item>
+               <item>Dr. <hi>Bramhall,</hi> Bishop of <hi>Derry</hi>
+               </item>
+               <item>Sir <hi>Robert Heath</hi>
+               </item>
+               <item>Sir <hi>William Wodrington</hi>
+               </item>
+               <item>Sir <hi>Ralph Hopton</hi>
+               </item>
+               <item>Sir <hi>Joh Byron</hi>
+               </item>
+               <item>Sir <hi>Francis Doddington</hi>
+               </item>
+               <item>Sir <hi>John Strangewayes</hi>
+               </item>
+               <item>Sir <hi>George Ratcliffe</hi>
+               </item>
+               <item>Sir <hi>Marmaduke Langdale</hi>
+               </item>
+               <item>Sir <hi>Henry Vaughan</hi>
+               </item>
+               <item>Sir <hi>Francis Windebanke</hi>
+               </item>
+               <item>Sir <hi>Richard Greenvile</hi>
+               </item>
+               <item>Sir <hi>Edward Hide</hi>
+               </item>
+               <item>Sir <hi>John Marley</hi>
+               </item>
+               <item>Sir <hi>Nicholas Cole</hi>
+               </item>
+               <item>Sir <hi>Thomas Reddel</hi> Junior</item>
+               <item>Sir <hi>John Cuspeper</hi>
+               </item>
+               <item>Sir <hi>Richard Lloyd</hi>
+               </item>
+               <item>Sir <hi>George Strode</hi>
+               </item>
+               <item>Sir <hi>George Cart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ret</hi>
+               </item>
+               <item>Sir <hi>Charles Dallison</hi>
+               </item>
+               <item>Sir <hi>Richard Lane</hi>
+               </item>
+               <item>Sir <hi>Edward Nicholas</hi>
+               </item>
+               <item>Sir <hi>Edward Herbert</hi>
+               </item>
+               <item>Sir <hi>Francis Howard</hi>
+               </item>
+               <item>Sir <hi>John Winter</hi>
+               </item>
+               <item>Sir <hi>Charles Smith</hi>
+               </item>
+               <item>Sir <hi>John Preston</hi>
+               </item>
+               <item>Sir <hi>Bazil Brooke</hi>
+               </item>
+               <item>Sir <hi>Henry Beddingfield</hi>
+               </item>
+               <item>Collonel <hi>George Goring</hi>
+               </item>
+               <item>Colonel <hi>John Cockram</hi>
+               </item>
+               <pb n="3" facs="tcp:160467:3"/>
+               <item>
+                  <hi>Henry Jermin</hi> Esquire</item>
+               <item>
+                  <hi>John Ashburnham</hi> Esq;</item>
+               <item>
+                  <hi>Carel Mollineux</hi> Esquire</item>
+               <item>
+                  <hi>Wil. Sheldon</hi> of <hi>Vcely</hi> Esq;</item>
+               <item>Mr. <hi>Endimion Porter</hi>
+               </item>
+               <item>Mr. <hi>David Jenkins</hi>
+               </item>
+               <item>
+                  <hi>Alester Mageonald</hi>
+               </item>
+               <item>
+                  <hi>Irwing Yonger</hi> of <hi>Drunim</hi>
+               </item>
+               <item>
+                  <hi>Gordan Yonger</hi> of <hi>Gight</hi>
+               </item>
+               <item>
+                  <hi>Lesly</hi> of <hi>Auchento<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi>
+               </item>
+               <item>
+                  <hi>Graham</hi> of <hi>Gorthie.</hi>
+               </item>
+            </list>
+            <p>All Papists, and popish recusants, who have beene, now are, or shall be, actual<g ref="char:EOLhyphen"/>ly in Armes, or voluntarily assisting against the Parliament, or Estates of either King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>All such as being processed by the Estates for Treason, shall be condemned before the Act of oblivion be past.</p>
+            <p>And all persons who have had any hand in the plotting designing, or assisting the Rebellion in <hi>Ireland,</hi> except such persons who having oly assisted the said Rebellion, have rendred themselves, or come to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="document">
+            <pb n="4" facs="tcp:160467:4"/>
+            <head>
+               <hi>AN ACT IS TO BEE Propounded to the</hi> Kings Majesty, <hi>to</hi> be Passed in the Parliaments of both Kingdomes respectively, for the Esta<g ref="char:EOLhyphen"/>blishing the joynt <hi>Declaration</hi> of both Kingdomes, bearing date the <hi>30</hi> day of <hi>January 1643</hi> in <hi>England,</hi> And <hi>1644</hi> in <hi>Scotland,</hi> with the qualifi<g ref="char:EOLhyphen"/>cations expressed in the Propositions from both Kingdomes to His Majesty.</head>
+            <p>In which Declaration of the Kingdome of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Scotland</hi> (joyned in Armes for the Vindication and Defence of their Religion, Liber<g ref="char:EOLhyphen"/>ties and Laws) against the Popish, Prelaticall, and Malignant Party, By the Honourable Houses of the Parliament of <hi>England,</hi> and the Honourable Convention of Estates of the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> It is Declared, Thus</p>
+            <p n="1">I. WE do declare, concerning those who are or shall be found by the Supream
+<pb n="5" facs="tcp:160467:4"/> Judicatories of the Kingdomes respecttively, or their Committees appointed for that ef<g ref="char:EOLhyphen"/>fect, to be such; That as the Conscience of their own bad deservings hath made them to dispaire of favour, and thereby unces<g ref="char:EOLhyphen"/>santly to worke more and more mischeife a<g ref="char:EOLhyphen"/>gainst their Religion and Native Country, so are they to looke for such Execution of Justice, as is due to Traytors and Enemies of Religion, of the King, and his Kingdomes, for Terrour and Example to others, in all times to come.</p>
+            <p n="2">II. And it is further now Declared, That the whole Estates, reall and personall, move<g ref="char:EOLhyphen"/>able, and Inheritance of those that shall not come in at the times before limited in the Sixth Article, and of the persons before excepted from Pardon, (as of Papists in Armes, Irish Rebels▪ and those who shall be found to come within the compasse of the precedent Article) shall be forfeited and im<g ref="char:EOLhyphen"/>ployed for paying the publick Debts, relie<g ref="char:EOLhyphen"/>ving the common burdens of the Kingdoms and repairing of particular losses.</p>
+            <p n="3">III. And this Declaration we make, not from
+<pb n="6" facs="tcp:160467:5"/> any presumtion or vaine-glorying in the strength of our Armies and Forces; but from the sense of that duty which is required, and expected from the high places and publique relations wherein we stand, and from the as<g ref="char:EOLhyphen"/>surance we have of the assistance of God, by whose providence the trust &amp; safety of these Kingdomes are put into our hands at this time, have after long and grave consultation, resolved and decreed never to lay downe Armes till Truth and Peace by the blessing of God bee settled in this Island upon a firme foundation for the present and future Generations, which shall be esteemed of us an abundant reward of all that we can doe or suffer in this Cause.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
